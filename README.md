@@ -8,11 +8,11 @@
 
  
 
-- 🌱 I’m currently learning ![1](https://user-images.githubusercontent.com/117076090/206725269-f232cc89-f94b-4158-aa38-56424e3f8a23.png)
+- 🌱 I’m currently learning  ![1](https://user-images.githubusercontent.com/117076090/206725269-f232cc89-f94b-4158-aa38-56424e3f8a23.png)
 
-- 👯 I’m looking to collaborate on ![1](https://user-images.githubusercontent.com/117076090/206725279-884a77c0-dea5-4e3b-83a8-05c0ba15ad1f.png)
+- 👯 I’m looking to collaborate on  ![1](https://user-images.githubusercontent.com/117076090/206725279-884a77c0-dea5-4e3b-83a8-05c0ba15ad1f.png)
 
-- 🤔 I’m looking for help with ![2](https://user-images.githubusercontent.com/117076090/206725596-74068960-4eae-4abe-b4d0-755175c1de83.png)
+- 🤔 I’m looking for help with  ![2](https://user-images.githubusercontent.com/117076090/206725596-74068960-4eae-4abe-b4d0-755175c1de83.png)
 
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: ozbirmustafa@gmail.com
