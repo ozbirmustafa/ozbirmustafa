@@ -15,7 +15,8 @@
 - 🤔 I’m looking for help with  ![2](https://user-images.githubusercontent.com/117076090/206725596-74068960-4eae-4abe-b4d0-755175c1de83.png)
 
 - 💬 Ask me about anything you want!
-- 📫 How to reach me: ozbirmustafa@gmail.com
+- 📫 How to reach me: ozbirmustafa@gmail.com or
+                      https://www.linkedin.com/in/mustafa-ozbir-75a19125a/
 
 
 ## Snake eating my contribution graph 
