@@ -16,7 +16,7 @@
 
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: ozbirmustafa@gmail.com or
-                      https://www.linkedin.com/in/mustafa-ozbir-75a19125a/
+                      https://www.linkedin.com/in/mustafaozbir
 
 
 ## Snake eating my contribution graph 
