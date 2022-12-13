@@ -25,10 +25,9 @@
 
 
 - 💬 Ask me about anything you want!
-- 📫 How to reach me: ![8](https://user-images.githubusercontent.com/117076090/207324760-77d3c0dc-0cd2-4c4b-af9b-ea2bad4cc731.png)
-ozbirmustafa@gmail.com 
-                     ![9](https://user-images.githubusercontent.com/117076090/207324998-b5be0cf7-789b-49d9-9864-8ac3585b97e3.png)
- https://www.linkedin.com/in/mustafaozbir
+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mustafaozbir/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a> 
+
 
 
 ## Snake eating my contribution graph 
