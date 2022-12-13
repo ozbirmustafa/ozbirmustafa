@@ -15,8 +15,10 @@
 - 🤔 I’m looking for help with  ![2](https://user-images.githubusercontent.com/117076090/206725596-74068960-4eae-4abe-b4d0-755175c1de83.png)
 
 - 💬 Ask me about anything you want!
-- 📫 How to reach me: ozbirmustafa@gmail.com or
-                      https://www.linkedin.com/in/mustafaozbir
+- 📫 How to reach me: ![8](https://user-images.githubusercontent.com/117076090/207324760-77d3c0dc-0cd2-4c4b-af9b-ea2bad4cc731.png)
+ozbirmustafa@gmail.com 
+                     ![9](https://user-images.githubusercontent.com/117076090/207324998-b5be0cf7-789b-49d9-9864-8ac3585b97e3.png)
+ https://www.linkedin.com/in/mustafaozbir
 
 
 ## Snake eating my contribution graph 
