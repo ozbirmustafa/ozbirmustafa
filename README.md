@@ -26,7 +26,8 @@
 
 - 💬 Ask me about anything you want!
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mustafaozbir/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mustafaozbir/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a> <a href="mailto:ozbirmustafa@gmail.com"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>
+
 
 
 
