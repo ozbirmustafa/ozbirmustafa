@@ -14,7 +14,7 @@
 
 - 🤔 I’m looking for help with  ![2](https://user-images.githubusercontent.com/117076090/206725596-74068960-4eae-4abe-b4d0-755175c1de83.png)
 
-- ![29](https://user-images.githubusercontent.com/117076090/207368241-cb3062d6-6b19-43a1-a9e2-3a2b620353d8.png)
+
 ![21](https://user-images.githubusercontent.com/117076090/207368280-81e6f5e1-3a03-4551-91aa-3fc60eb0d901.png)
 ![22](https://user-images.githubusercontent.com/117076090/207368296-53e25a43-b9c6-4053-ab86-e7ca78e898e3.png)
 ![27](https://user-images.githubusercontent.com/117076090/207368391-80854b7a-105d-4eb6-8bf3-cf0009c20207.png)
@@ -26,7 +26,8 @@
 
 - 💬 Ask me about anything you want!
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mustafaozbir/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a> <a href="mailto:ozbirmustafa@gmail.com"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mustafaozbir/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a> <a href="mailto:ozbirmustafa@gmail.com"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a> <br>
+- <img src="https://user-images.githubusercontent.com/117076090/207368241-cb3062d6-6b19-43a1-a9e2-3a2b620353d8.png" alt="Image 1">
 
 
 
