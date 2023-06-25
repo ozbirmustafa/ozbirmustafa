@@ -8,9 +8,9 @@
 
  
 
-- 🌱 I’m currently learning  ![1](https://user-images.githubusercontent.com/117076090/206725269-f232cc89-f94b-4158-aa38-56424e3f8a23.png)
+- 🌱 I’m currently learning  <img src="https://user-images.githubusercontent.com/117076090/208161386-6c73cd7c-5089-4439-af30-af0c4f4604bb.png"/>  
 
-- 👯 I’m looking to collaborate on  ![1](https://user-images.githubusercontent.com/117076090/206725279-884a77c0-dea5-4e3b-83a8-05c0ba15ad1f.png)
+- 👯 I’m looking to collaborate on  <img src="https://user-images.githubusercontent.com/117076090/208161386-6c73cd7c-5089-4439-af30-af0c4f4604bb.png"/>  
 
 - 🤔 I’m looking for help with <img src="https://user-images.githubusercontent.com/117076090/208161386-6c73cd7c-5089-4439-af30-af0c4f4604bb.png"/>  
 -  🖥 My Skills:
