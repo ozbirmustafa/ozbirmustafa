@@ -24,8 +24,3 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mustafaozbir/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a> <a href="mailto:ozbirmustafa@gmail.com"><img src="https://img.icons8.com/color/48/null/gmail--v1.png" alt="gmail" width="60" height="55" /></a> <br>
 
-
-
-
-## Snake eating my contribution graph 
-![snake gif](https://github.com/ozbirmustafa/ozbirmustafa/blob/output/github-contribution-grid-snake.gif)
