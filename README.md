@@ -5,14 +5,6 @@
 
 ![3](https://user-images.githubusercontent.com/117076090/206726619-6e7d65f5-c9d6-47eb-9941-34b64e09c540.gif)
 
-
- 
-
-- 🌱 I’m currently learning  <img src="https://user-images.githubusercontent.com/117076090/208161386-6c73cd7c-5089-4439-af30-af0c4f4604bb.png"/>  
-
-- 👯 I’m looking to collaborate on  <img src="https://user-images.githubusercontent.com/117076090/208161386-6c73cd7c-5089-4439-af30-af0c4f4604bb.png"/>  
-
-- 🤔 I’m looking for help with <img src="https://user-images.githubusercontent.com/117076090/208161386-6c73cd7c-5089-4439-af30-af0c4f4604bb.png"/>  
 -  🖥 My Skills:
 <div style="display: flex; justify-content: space-between;">
  
