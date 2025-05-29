@@ -4,6 +4,8 @@
 -  I’m open to collaborating on open source QA or automation projects.
 -  Feel free to reach out about software testing strategies, tools, or test automation frameworks.
 
+-  ![Stats](https://github-readme-stats-ozbirmustafas-projects.vercel.app/api?username=ozbirmustafa&show_icons=true&theme=tokyonight&count_private=true)
+
 ## 🛠️ Tools & Technologies
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
