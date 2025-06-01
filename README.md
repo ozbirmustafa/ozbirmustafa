@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🔍 I’m currently working as a **Software Test Engineer**, focusing on both manual and automation testing.
-- 🧠 I enjoy testing projects in domains like *E-Commerce*, *Therapy Practice Management*, and *Tourism & Transportation Platforms*.
+- 🧠 I've tested projects in domains like *E-Commerce*, *Therapy Practice Management*, and *Tourism & Transportation Platforms*.
 - 🤝 Open to collaborating on **open source QA** or automation frameworks.
 - 💬 Feel free to reach out to discuss **test strategies, tools**, or automation frameworks.
 
